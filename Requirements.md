@@ -12,7 +12,7 @@
 
   A memory game that progressivly gets harder by increasing the amount of inputs and choices. 
 
-- To score as many points as possible and get to as many 
+ To score as many points as possible and get to as many 
 
 
 ## Functional Requirements
